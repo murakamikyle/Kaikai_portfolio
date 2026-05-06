@@ -1,0 +1,23 @@
+
+    body {
+        font-family: Arial;
+        background: #f2f2f2;
+    }
+
+    table {
+        margin: 20px auto;
+        border-collapse: collapse;
+        background: white;
+        width: auto;      
+    }
+
+    td {
+        text-align: center;
+        padding: 10px;
+    }
+
+    img {
+        width: 140px;
+        height: 110px;
+        object-fit: cover;
+    }

@@ -1,0 +1,25 @@
+
+    body {
+        font-family: Arial;
+        background-color: #f3e9dc;
+    }
+
+    h2 {
+        text-align: center;
+    }
+
+    form {
+        width: 300px;
+        margin: 20px auto; 
+        background: white;
+        padding: 15px;
+        border: 1px solid #ccc;
+    }
+
+   
+
+    button {
+        padding: 5px 10px;
+        margin-top: 5px;
+    }
+

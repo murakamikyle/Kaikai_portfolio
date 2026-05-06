@@ -1,0 +1,22 @@
+body {
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+    font-family: Arial, sans-serif;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    align-items: center;      
+    height: 100vh;            
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    font-size: 30px;
+}
+
